@@ -1,4 +1,4 @@
-# chattingdotcom
+git remote add origin https://github.com/Simranjeet29/mental_health_app.git# chattingdotcom
 
 A new Flutter project.
 
