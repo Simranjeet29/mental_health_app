@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900336917566",
+    "project_id": "chattingdotcom-afbb3",
+    "storage_bucket": "chattingdotcom-afbb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900336917566:android:86be3f98bf4fdfe16bc56f",
+        "android_client_info": {
+          "package_name": "com.example.chattingdotcom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuAMe1ntCipcdY_ap0CEs2eqy62vbickY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
